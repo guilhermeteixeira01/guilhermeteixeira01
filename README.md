@@ -34,10 +34,8 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,react,py&theme=light)
 
-<div style="text-align: center;" align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/github-contribution-grid-snake-dark.svg">
