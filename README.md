@@ -35,8 +35,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,react,py&theme=light)
 
 <div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermeteixeira01&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ffdd00&text_color=FFF&border_radius=3&border_color=ffdd00&icon_color=ffdd00&theme=jolly">
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
