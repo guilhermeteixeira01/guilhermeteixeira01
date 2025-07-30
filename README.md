@@ -32,7 +32,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,react,py&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,java,react,py&theme=light)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
