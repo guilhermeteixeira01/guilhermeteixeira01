@@ -35,7 +35,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,java,react,py&theme=light)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph.svg">
 </picture>
