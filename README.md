@@ -11,6 +11,7 @@
   alt="MarioCoder"
   width="230"
   align="right"
+  hspace="16"
 />
 
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
