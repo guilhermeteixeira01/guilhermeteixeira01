@@ -10,27 +10,22 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
-<table style="border:none;">
-  <tr>
-    <td>
+<img
+  src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
+  alt="MarioCoder"
+  width="230"
+  align="right"
+/>
 
-- 💻 Beginner developer exploring new technologies.  
-- 🎮 Learning and developing in the gaming industry.  
-- 🚀 I've participated in some projects and am always looking to evolve.  
-- 🌍 Building a small community of developers.  
-- 📚 Passionate about continuous learning and knowledge sharing.  
+- 💻 Beginner developer exploring new technologies.
+- 🎮 Learning and developing in the gaming industry.
+- 🚀 I've participated in some projects and am always looking to evolve.
+- 🌍 Building a small community of developers.
+- 📚 Passionate about continuous learning and knowledge sharing.
 - 🎧 Fan of Rock and Trap – listening to everything from Linkin Park and Slipknot and Travis Scott.
 
-    </td>
-    <td width="260">
-      <img 
-        src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
-        alt="MarioCoder"
-        width="230"
-      />
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
+
 
 
 ## 📲 Contact
