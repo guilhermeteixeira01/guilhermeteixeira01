@@ -4,7 +4,7 @@
     <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?type=default&r=y1g" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
 </a> -->
 
-<div align="right">
+<div>
   <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" style="min-width: 200px; max-width: 250px; width: 30%" alt="MarioCoder" align="right"/>
 </div>
 
