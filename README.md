@@ -40,9 +40,39 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ffd700&bar_color_cover=false)](https://open.spotify.com/user/31alvuw6hdcl4cf65mroprno6ajy)
 
-## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,git,cpp,discord,github,lua,vscode,nodejs,java,react,py&theme=light)
+## 💻 Development
+
+![HTML](https://skillicons.dev/icons?i=html&theme=light)
+![CSS](https://skillicons.dev/icons?i=css&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light)
+![PHP](https://skillicons.dev/icons?i=php&theme=light)
+![Git](https://skillicons.dev/icons?i=git&theme=light)
+![C++](https://skillicons.dev/icons?i=cpp&theme=light)
+![Discord](https://skillicons.dev/icons?i=discord&theme=light)
+![GitHub](https://skillicons.dev/icons?i=github&theme=light)
+![Lua](https://skillicons.dev/icons?i=lua&theme=light)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)
+![Java](https://skillicons.dev/icons?i=java&theme=light)
+![React](https://skillicons.dev/icons?i=react&theme=light)
+![Python](https://skillicons.dev/icons?i=py&theme=light)
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+
+---
+
+## 🎨 Design & Visual Tools
+
+![Figma](https://skillicons.dev/icons?i=figma&theme=light)
+![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=light)
+![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
