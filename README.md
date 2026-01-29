@@ -6,22 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&center=true&vCenter=true&width=200&height=48&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
+<img
+  src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
+  alt="MarioCoder"
+  width="280"
+  align="right"
+  hspace="24"
+/>
 
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
-    </td>
-    <td width="300">
-      <img
-        src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
-        alt="MarioCoder"
-        width="280"
-      />
-    </td>
-  </tr>
-</table>
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
