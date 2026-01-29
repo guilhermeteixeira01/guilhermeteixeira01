@@ -10,7 +10,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
 
