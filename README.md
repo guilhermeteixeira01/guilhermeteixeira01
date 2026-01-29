@@ -17,9 +17,7 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 <img
   src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
   alt="MarioCoder"
-  width="220"
-  align="right"
-  hspace="20"
+  width="450"
 />
 
 - 💻 Beginner developer exploring new technologies.
@@ -28,11 +26,6 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 - 🌍 Building a small community of developers.
 - 📚 Passionate about continuous learning and knowledge sharing.
 - 🎧 Fan of Rock and Trap – listening to everything from Linkin Park and Slipknot and Travis Scott.
-
-<br clear="right"/>
-
-<br/>
-
 
 ## 📲 Contact
 
