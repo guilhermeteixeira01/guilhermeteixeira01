@@ -28,8 +28,10 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 - 🌍 Building a small community of developers.
 - 📚 Passionate about continuous learning and knowledge sharing.
 - 🎧 Fan of Rock and Trap – listening to everything from Linkin Park and Slipknot and Travis Scott.
-  
-<br/><br/>
+
+<br clear="right"/>
+
+<br/>
 
 
 ## 📲 Contact
