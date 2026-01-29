@@ -43,36 +43,36 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 💻 Development
 
-![HTML](https://skillicons.dev/icons?i=html&theme=light)
-![CSS](https://skillicons.dev/icons?i=css&theme=light)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=light)
-![PHP](https://skillicons.dev/icons?i=php&theme=light)
-![Git](https://skillicons.dev/icons?i=git&theme=light)
-![GitHub](https://skillicons.dev/icons?i=github&theme=light)
-![C++](https://skillicons.dev/icons?i=cpp&theme=light)
-![Discord](https://skillicons.dev/icons?i=discord&theme=light)
-![Lua](https://skillicons.dev/icons?i=lua&theme=light)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-![React](https://skillicons.dev/icons?i=react&theme=light)
-![Python](https://skillicons.dev/icons?i=py&theme=light)
+![HTML](https://skillicons.dev/icons?i=html&theme=light&size=32)
+![CSS](https://skillicons.dev/icons?i=css&theme=light&size=32)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light&size=32)
+![PHP](https://skillicons.dev/icons?i=php&theme=light&size=32)
+![Git](https://skillicons.dev/icons?i=git&theme=light&size=32)
+![GitHub](https://skillicons.dev/icons?i=github&theme=light&size=32)
+![C++](https://skillicons.dev/icons?i=cpp&theme=light&size=32)
+![Discord](https://skillicons.dev/icons?i=discord&theme=light&size=32)
+![Lua](https://skillicons.dev/icons?i=lua&theme=light&size=32)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=light&size=32)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light&size=32)
+![Java](https://skillicons.dev/icons?i=java&theme=light&size=32)
+![React](https://skillicons.dev/icons?i=react&theme=light&size=32)
+![Python](https://skillicons.dev/icons?i=py&theme=light&size=32)
 
 ---
 
 ## 🗄️ Databases
 
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light&size=32)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light&size=32)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light&size=32)
 
 ---
 
 ## 🎨 Design & Visual Tools
 
-![Figma](https://skillicons.dev/icons?i=figma&theme=light)
-![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=light)
-![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
+![Figma](https://skillicons.dev/icons?i=figma&theme=light&size=32)
+![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=light&size=32)
+![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light&size=32)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
