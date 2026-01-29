@@ -9,12 +9,12 @@
 <img
   src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
   alt="MarioCoder"
-  width="230"
+  width="280"
   align="right"
-  hspace="16"
+  hspace="20"
 />
 
-<br/>
+<br/><br/><br/><br/><br/>
 
 IT Student Ready to learn whatever it takes! I am currently studying C++, Javascript, PHP to improve my skills. I am constantly updating my knowledge and seeking new challenges in the technology area. I am passionate about learning and applying this knowledge to create innovative solutions.
 
