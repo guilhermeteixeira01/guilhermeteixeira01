@@ -5,7 +5,7 @@
 </a> -->
 
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" alt="MarioCoder" width="200"/>
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" style="min-width: 200px; max-width: 250px; width: 30%" alt="MarioCoder" align="right"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&center=true&vCenter=true&width=200&height=48&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
