@@ -63,16 +63,12 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 ## 🗄️ Databases
 
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light&size=32)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light&size=32)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light&size=32)
 
 ---
 
 ## 🎨 Design & Visual Tools
 
 ![Figma](https://skillicons.dev/icons?i=figma&theme=light&size=32)
-![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=light&size=32)
-![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light&size=32)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
