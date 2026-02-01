@@ -46,16 +46,14 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 ![HTML](https://skillicons.dev/icons?i=html&theme=light&size=32)
 ![CSS](https://skillicons.dev/icons?i=css&theme=light&size=32)
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=light&size=32)
-![PHP](https://skillicons.dev/icons?i=php&theme=light&size=32)
+![React](https://skillicons.dev/icons?i=react&theme=light&size=32)
 ![Git](https://skillicons.dev/icons?i=git&theme=light&size=32)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=light&size=32)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=light&size=32)
 ![Discord](https://skillicons.dev/icons?i=discord&theme=light&size=32)
-![Lua](https://skillicons.dev/icons?i=lua&theme=light&size=32)
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=light&size=32)
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light&size=32)
 ![Java](https://skillicons.dev/icons?i=java&theme=light&size=32)
-![React](https://skillicons.dev/icons?i=react&theme=light&size=32)
 ![Python](https://skillicons.dev/icons?i=py&theme=light&size=32)
 
 ---
