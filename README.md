@@ -43,7 +43,8 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 💻 Development
 
-![HTML](https://skillicons.dev/icons?i=html&theme=light&size=32)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 32px" />       
 ![CSS](https://skillicons.dev/icons?i=css&theme=light&size=32)
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=light&size=32)
 ![React](https://skillicons.dev/icons?i=react&theme=light&size=32)
