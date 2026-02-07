@@ -45,29 +45,16 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 32px" />       
-![CSS](https://skillicons.dev/icons?i=css&theme=light&size=32)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=light&size=32)
-![React](https://skillicons.dev/icons?i=react&theme=light&size=32)
-![Git](https://skillicons.dev/icons?i=git&theme=light&size=32)
-![GitHub](https://skillicons.dev/icons?i=github&theme=light&size=32)
-![C++](https://skillicons.dev/icons?i=cpp&theme=light&size=32)
-![Discord](https://skillicons.dev/icons?i=discord&theme=light&size=32)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=light&size=32)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light&size=32)
-![Java](https://skillicons.dev/icons?i=java&theme=light&size=32)
-![Python](https://skillicons.dev/icons?i=py&theme=light&size=32)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 32px" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 32px" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width: 32px" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width: 32px" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width: 32px" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 32px" />
+          
 ---
-
-## 🗄️ Databases
-
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=light&size=32)
-
----
-
-## 🎨 Design & Visual Tools
-
-![Figma](https://skillicons.dev/icons?i=figma&theme=light&size=32)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
