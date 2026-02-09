@@ -5,7 +5,7 @@
 <br clear="right"/>
 
 <p align="center">
- 🎓 Estudante de TI pronto para aprender o que for preciso! Atualmente, estou estudando C++, Javascript e PHP para aprimorar minhas habilidades. Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por aprender e aplicar esse conhecimento para criar soluções inovadoras.
+ 🎓 Estudante de TI, 23 anos, pronto para aprender o que for preciso! Atualmente, estou estudando C++, Javascript e PHP para aprimorar minhas habilidades. Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por aprender e aplicar esse conhecimento para criar soluções inovadoras.
 <p/>
     
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
