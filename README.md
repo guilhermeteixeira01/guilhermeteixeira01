@@ -1,6 +1,6 @@
-<p align="center">
-    # 👋 Guilherme Teixeira (💻) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://discord.gg/SBBrParF)
-</p>
+<h1 align="center">
+    👋 Guilherme Teixeira (💻) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://discord.gg/SBBrParF)
+</h1>
 
 <br clear="right"/>
 
