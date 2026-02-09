@@ -1,12 +1,6 @@
-# 👋 Guilherme Teixeira (💻) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://discord.gg/SBBrParF)
-
-<!-- <a href="https://app.daily.dev/guilhermeteixeira01">
-    <img src="https://api.daily.dev/devcards/v2/h8lHIdrV6TnDW6TBtrCap.png?type=default&r=y1g" style="min-width: 200px; max-width: 250px; width: 30%" alt="Guilherme Teixeira's Dev Card" align="right"/>
-</a> -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=F7EF00&center=true&vCenter=true&width=200&height=48&lines=Full+Stack;Software+Dev)](https://git.io/typing-svg)
-
-
+<p align="center">
+    # 👋 Guilherme Teixeira (💻) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://discord.gg/SBBrParF)
+</p>
 
 <br clear="right"/>
 
@@ -43,16 +37,16 @@ IT Student Ready to learn whatever it takes! I am currently studying C++, Javasc
 
 ## 💻 Development
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32"/>
+<p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32"/>
 </p>
           
 ---
