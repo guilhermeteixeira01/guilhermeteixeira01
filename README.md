@@ -23,12 +23,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
 [![Discord](https://img.shields.io/badge/-discord-ffdd00?style=for-the-badge&logo=discord&logoColor=000000&color:FFF)](https://discord.gg/sZnuksgens)
 
-# 🎧 Spotify Playing
-[![Teixeira Rock Music](https://img.shields.io/badge/Teixeira%20Rock%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/05fG473iIaoy82BF1aGhL8) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/0Y5tJX1MQlPlqiwlOH1tJY)
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ffd700&bar_color_cover=false)](https://open.spotify.com/user/31alvuw6hdcl4cf65mroprno6ajy)
-
-
 # 💻 Development
 <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/>
