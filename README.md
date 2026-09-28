@@ -60,18 +60,16 @@ Gosto de transformar o que aprendo em projetos práticos, buscar boas práticas 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://gh-stats.work/api?username=guilhermeteixeira01&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
 </p>
 
 ## 🚀 Projetos em destaque
 
-<!-- Substitua pelos seus melhores repositórios -->
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
-| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `JavaScript` `HTML` `CSS` |
-| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `C++` |
-| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `C#` |
+| [Calisthenic Leveling](https://github.com/guilhermeteixeira01/calisthenic-leveling) ⭐ 18 | Aplicação web interativa que une treino de calistenia a um sistema de progressão gamificado: complete missões de exercícios, suba de nível e receba notificações de conquista com efeitos neon. | `JavaScript` `HTML` `CSS` |
+| [ChatManager-MC](https://github.com/guilhermeteixeira01/ChatManager-MC) | Plugin para Minecraft que personaliza mensagens de entrada, saída e chat, com integração ao LuckPerms para prefixos e cores personalizadas. | `Java` |
+| [Amxx-zp](https://github.com/guilhermeteixeira01/Amxx-zp) | Plugins em Pawn para Counter-Strike 1.6 (Zombie Plague Special). | `Pawn` |
 
 ## 🎧 Fora do código
 
