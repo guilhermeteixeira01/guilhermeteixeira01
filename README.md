@@ -67,6 +67,7 @@ Gosto de transformar o que aprendo em projetos práticos, buscar boas práticas 
 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
+| [Portfolio](https://github.com/guilhermeteixeira01/Portfolio) ⭐ 41 | Meu portfólio pessoal, reunindo projetos e informações profissionais. | `JavaScript` |
 | [Calisthenic Leveling](https://github.com/guilhermeteixeira01/calisthenic-leveling) ⭐ 18 | Aplicação web interativa que une treino de calistenia a um sistema de progressão gamificado: complete missões de exercícios, suba de nível e receba notificações de conquista com efeitos neon. | `JavaScript` `HTML` `CSS` |
 | [ChatManager-MC](https://github.com/guilhermeteixeira01/ChatManager-MC) | Plugin para Minecraft que personaliza mensagens de entrada, saída e chat, com integração ao LuckPerms para prefixos e cores personalizadas. | `Java` |
 | [Amxx-zp](https://github.com/guilhermeteixeira01/Amxx-zp) | Plugins em Pawn para Counter-Strike 1.6 (Zombie Plague Special). | `Pawn` |
@@ -77,7 +78,11 @@ Fã de Rock e Trap, de Linkin Park e Slipknot a Travis Scott. Música é minha c
 
 ## 🤝 Vamos conversar?
 
-Estou aberto a oportunidades de estágio, projetos colaborativos e troca de conhecimento. Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/guilherme-teixeira-86499732a/) ou por [e-mail](mailto:guilherme.teixeira00@outlook.com).
+Estou aberto a oportunidades de estágio, projetos colaborativos e troca de conhecimento. Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/guilherme-teixeira-86499732a/), pelo [WhatsApp](https://wa.me/5561999647021) ou por [e-mail](mailto:guilherme.teixeira00@outlook.com).
+
+<p>
+  <a href="https://wa.me/5561999647021"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 ---
 
