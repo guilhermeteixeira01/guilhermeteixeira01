@@ -1,45 +1,90 @@
-<h1 align="center">
-    👋 Olá, Eu sou o Guilherme Teixeira
-</h1>
-
-<br clear="right"/>
+<h1 align="center">Guilherme Teixeira</h1>
+<h3 align="center">Estudante de TI · Desenvolvedor em formação · Web & Games</h3>
 
 <p align="center">
- 🎓 Estudante de TI, 23 anos, pronto para aprender o que for preciso! Atualmente, estou estudando C++, Javascript e PHP para aprimorar minhas habilidades. Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por aprender e aplicar esse conhecimento para criar soluções inovadoras.
-<p/>
-    
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
-
-- 💻 Desenvolvedor explorando novas tecnologias.
-- 🎮 Aprendizagem e desenvolvimento na indústria de jogos e web.
-- 🚀 Participei de alguns projetos e estou sempre buscando evoluir.
-- 🌍 Construindo uma pequena comunidade de desenvolvedores.
-- 📚 Apaixonado por aprendizado contínuo e compartilhamento de conhecimento.
-- 🎧 Fã de Rock e Trap – ouço de tudo, desde Linkin Park e Slipknot até Travis Scott.
-
-# 📲 Contact
-[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:guilherme.teixeira00@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffdd00?style=for-the-badge&logo=linkedin&logoColor=000000&color:FFF)](https://www.linkedin.com/in/guilherme-teixeira-86499732a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/teixeira_tatto_/)
-[![Discord](https://img.shields.io/badge/-discord-ffdd00?style=for-the-badge&logo=discord&logoColor=000000&color:FFF)](https://discord.gg/sZnuksgens)
-
-# 💻 Development
-<p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32"/>
+  <a href="mailto:guilherme.teixeira00@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-teixeira-86499732a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.gg/sZnuksgens"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://komarev.com/ghpvc/?username=guilhermeteixeira01&label=Visitas&color=181717&style=for-the-badge" alt="Visitas"/>
 </p>
-          
+
+---
+
+## 👨‍💻 Sobre mim
+
+Tenho 23 anos e estudo Tecnologia da Informação com foco em desenvolvimento de software. Atualmente aprofundo meus conhecimentos em **C++**, **C#**, **JavaScript**, **Node.js** e **React**, além de trabalhar com **Pawn**, e tenho interesse especial em **desenvolvimento web** e na **indústria de jogos**.
+
+Gosto de transformar o que aprendo em projetos práticos, buscar boas práticas de código e compartilhar conhecimento com a comunidade.
+
+## 🎯 Foco atual
+
+- 📚 Estudando C++, C#, JavaScript, Node.js e React
+- 🎮 Explorando desenvolvimento de jogos e aplicações web
+- 🛠️ Construindo projetos para consolidar fundamentos (lógica, estruturas de dados, versionamento)
+- 🌱 Criando uma pequena comunidade de desenvolvedores
+
+## 🧰 Stack & Ferramentas
+
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Pawn-E8A33D?style=for-the-badge" alt="Pawn"/>
+</p>
+
+**Frameworks & Runtime**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+**Front-end (marcação & estilo)**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeteixeira01&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeteixeira01&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+
+## 🚀 Projetos em destaque
+
+<!-- Substitua pelos seus melhores repositórios -->
+| Projeto | Descrição | Tecnologias |
+| :-- | :-- | :-- |
+| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `JavaScript` `HTML` `CSS` |
+| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `C++` |
+| [Nome do projeto](https://github.com/guilhermeteixeira01/repositorio) | Breve descrição do que o projeto faz e qual problema resolve. | `C#` |
+
+## 🎧 Fora do código
+
+Fã de Rock e Trap, de Linkin Park e Slipknot a Travis Scott. Música é minha companhia favorita na hora de programar.
+
+## 🤝 Vamos conversar?
+
+Estou aberto a oportunidades de estágio, projetos colaborativos e troca de conhecimento. Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/guilherme-teixeira-86499732a/) ou por [e-mail](mailto:guilherme.teixeira00@outlook.com).
+
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/guilhermeteixeira01/guilhermeteixeira01/output/pacman-contribution-graph.svg">
 </picture>
